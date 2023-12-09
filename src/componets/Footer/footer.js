@@ -4,7 +4,7 @@ import './footer.css';
 const Footer = () => {
   return (
      <footer className='footer'>
-        Copyright: 2023 Mirojan Kodeeswaran. All right received.
+        Copyright: 2023 Miro Kodeeswaran. All right received.
         
      </footer>
 
